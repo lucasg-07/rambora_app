@@ -12,7 +12,7 @@ Os usuários podem utilizar o aplicativo Rambora para navegar até o seu destino
 ##  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Autores do projeto
 O projeto de mobilidade foi elaborado por Lucas Gonzaga (UX/Mobile), Leonardo Monteiro (Desenvolvedor Backend) e Felipe Arcanjo (Pesquisador).
 
-<div align="center"><img width="682" alt="image" src="https://github.com/lucasg-07/rambora_app/assets/110874265/dcb5d1fa-db8c-49ad-806c-0babbd410474">
+<div align="center"><img width="682" alt="image" src="https://github.com/lucasg-07/rambora_app/blob/main/images/Captura%20de%20tela%202023-11-19%20115157.png">
 </div>
 
 
